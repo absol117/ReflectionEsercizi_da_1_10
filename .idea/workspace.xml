@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e4c33f4-ceae-410e-82f3-3d43c2a10437" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/luca/main/Main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scai/model/ClasseTestEs6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luca/annotationTest/DaCorreggere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luca/annotationTest/Deprecato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luca/main/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luca/main/Main7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luca/main/Main7V1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luca/main/Main8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luca/main/Main8V1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luca/main/Main9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -49,9 +56,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main6">
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luca.main.Main1" />
+  <component name="RunManager" selected="Application.Main8">
+    <configuration name="Main10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luca.main.Main10" />
       <module name="Reflection_Test2" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luca.main.Main3" />
+    <configuration name="Main7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luca.main.Main7" />
       <module name="Reflection_Test2" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luca.main.Main4" />
+    <configuration name="Main8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luca.main.Main8" />
       <module name="Reflection_Test2" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luca.main.Main5" />
+    <configuration name="Main8V1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luca.main.Main8V1" />
       <module name="Reflection_Test2" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luca.main.Main6" />
+    <configuration name="Main9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luca.main.Main9" />
       <module name="Reflection_Test2" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main6" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Main5" />
-        <item itemvalue="Application.Main4" />
-        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main8" />
+        <item itemvalue="Application.Main7" />
+        <item itemvalue="Application.Main10" />
+        <item itemvalue="Application.Main9" />
+        <item itemvalue="Application.Main8V1" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694006856860</updated>
-      <workItem from="1694006857876" duration="5795000" />
+      <workItem from="1694006857876" duration="12836000" />
     </task>
     <task id="LOCAL-00001" summary="Prima parte degli esercizzi sulla reflection">
       <created>1694011797520</created>
@@ -142,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694011797520</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Prima parte degli esercizzi sulla reflection">
+      <created>1694014098625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694014098625</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
